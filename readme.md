@@ -1,7 +1,4 @@
 # Frontend Mentor - QR Code Component
-
-![QR Code Preview](./images/image-qr-code.png)
-
 ## 📌 What is This?
 
 This is a solution to the **QR Code Component** challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).  
