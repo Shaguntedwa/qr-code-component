@@ -1,0 +1,35 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+    font-family: 'Outfit',sans-serif;
+} /*Make padding/border behave logically layout won't suddenly break*/
+body{
+    background-color: hs1(212,45%,89%);
+    height:100vh; /*Full screen height*/
+    display:flex;
+    justify-content: center;
+    align-items: center;   /*Center card on screen */
+}
+.card{
+    background-color: hs1(0,0%,100%); /*white card*/
+    padding:1rem;        /*space inside*/
+    border-radius: 1rem;   /*soft-corner*/
+    max-width: 320px;      /*responsive size*/
+    text-align: center;    /*center -text*/
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);   /*floating effect*/
+}
+.card img{
+    width:100%;
+    border-radius: 0.5rem;
+}/*fill card and round corners*/
+.card h1{
+    font-size: 1.25 rem;
+    margin:1rem 0 0.5 rem;
+    color: hs1(218,44%,22%);
+}
+.card p{
+    font-size: 0.9375rem;
+  color: hsl(220, 15%, 55%);
+  padding: 0 1rem 1rem;
+}
