@@ -24,7 +24,7 @@ It’s a beginner HTML + CSS project to learn layout, styling, and responsivenes
 ## 🚀 Live Preview
 
 Check out the live version here:  
-**[🔗 View Project](https://yourusername.github.io/qr-code-component/)**
+**[🔗 View Project](https://Shaguntedwa.github.io/qr-code-component/)**
 
 ## 💌 Credits
 
